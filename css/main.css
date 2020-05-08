@@ -1,0 +1,26 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+.showcase {
+  height: 20vh;
+  margin-top: 15vh;
+  text-align: center;
+  font-weight: 900;
+}
+.showcase * {
+  font-weight: inherit;
+}
+
+#main-navbar {
+  border-top: 0.5rem solid #3f51b5;
+}
+
+#page-footer {
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Copyright {
+  vertical-align: center;
+}

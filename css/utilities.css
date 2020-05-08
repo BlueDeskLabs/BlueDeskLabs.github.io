@@ -1,0 +1,15 @@
+.bg-blue {
+  background-color: #3f51b5 !important;
+}
+.border-blue {
+  border-color: #3f51b5 !important;
+}
+.text-blue {
+  color: #3f51b5 !important;
+}
+.bg-custom-dark {
+  background-color: #212121 !important;
+}
+.border-custom-dark {
+  border-color: #212121 !important;
+}
